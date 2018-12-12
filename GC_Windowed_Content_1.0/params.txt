@@ -1,0 +1,6 @@
+chromosomes:1,2,3,4
+absolute_path_to_regions_file:/home1/ars51/WINDOWED_GC_CALC/CpGislands.txt
+absolute_path_to_fasta_files:/home1/genomes/hg18/
+calculate_region_center?:yes
+num_windows:50
+dist_from_peak_in_each_direction:5000

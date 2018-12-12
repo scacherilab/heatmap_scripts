@@ -1,0 +1,4 @@
+chromosomes:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,X
+absolute_path_to_peak_file:/home1/ars51/PETE/DNase_for_PAUL/mESC_H3K27ac_step25_peaks.txt
+absolute_path_to_sample_dirs:/home5/ars51/SGR
+sample_dirs:mESC_H3K27ac

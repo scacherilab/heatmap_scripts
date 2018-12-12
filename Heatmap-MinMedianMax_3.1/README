@@ -1,0 +1,1 @@
+This script will processes fixedStep WIG files with multiple headers per chromosome wig, as long as the wig is sorted

@@ -1,0 +1,4 @@
+chromosomes:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,X
+absolute_path_to_peak_file:/home1/ars51/CINDY/12052012/7fold_peak_files/4_crypt_mFOLD7_peaks.bwt2.txt
+absolute_path_to_sample_dirs:/homeG/ScacheriLab/ars51/WIG/hg19/
+sample_dirs:C101_H3K4me1_bwt2,C104_H3K4me1_bwt2,C91_H3K4me1_bwt2,cryp5_H3K4me1_bwt2,V410_H3K4me1_bwt2
